@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void VerificarDatos (View v){
 
-        if(etUs.getText().toString().equals("PORTERO-JIMENEZ") && etClv.getText().toString().equals("est.uisrael.2019")){
+        if(etUs.getText().toString().equals("HUGOCAMPO") && etClv.getText().toString().equals("uisrael.2020")){
             Toast.makeText(getApplicationContext(),"DATOS CORRECTOS",Toast.LENGTH_LONG).show();
 
             Intent objEnvio = new Intent(this,Actividad2.class );
@@ -36,5 +36,6 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
 
 }
