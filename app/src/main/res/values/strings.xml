@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TAREA S#5</string>
+    <string name="tvTitulo">TAREA S#5</string>
+
+    <string name="tvUsuario">USUARIO:</string>
+    <string name="tvClave">CLAVE:</string>
+    <string name="btVerificar">VERIFICAR</string>
+
+    <string name="tvUsuarioRecivir">RECIBE DATOS USUARIO</string>
+
+    <string name="tvPregunta1">CUAL ES SU METODO DE TRANSPORTE</string>
+    <string name="tvPregunta2"> ¿DEBERIA BAJAR LOS VALORES DEL SEMESTRE?</string>
+    <string name="tvPregunta3"> ¿EN QUÉ SEMAFORO SE ENCUANTRA QUITO ?</string>
+
+    <string name="cbOpcion1">ECOVÍA</string>
+    <string name="cbOpcion2">AUTO-PROPRIO</string>
+
+    <string name="rbOpcion1">SI</string>
+    <string name="rbOpcion2">NO</string>
+
+    <string name="txtRecibeP1">CUAL ES SU METODO DE TRANSPORTE</string>
+    <string name="txtRecibeP2"> ¿DEBERIA BAJAR LOS VALORES DEL SEMESTRE?</string>
+    <string name="txtRecibeP3"> ¿EN QUÉ SEMAFORO SE ENCUANTRA QUITO ?</string>
+
+
+
+</resources>
